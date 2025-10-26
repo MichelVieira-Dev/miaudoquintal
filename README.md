@@ -7,7 +7,7 @@ A plataforma permite que a ONG “Miau do Quintal” gerencie projetos, voluntá
 
 ## Estrutura do Repositório
 
-O repositório está organizado em quatro pastas principais:
+O repositório está organizado em três pastas principais:
 
 ### 1. Atividade 1 - HTML
 
